@@ -1,5 +1,5 @@
 
-#Kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 
 Bu repo [Patika](https://www.patika.dev) GIT Eğitiminde oluşturduğumuz ilk repo İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
